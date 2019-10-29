@@ -194,7 +194,21 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-4.6-all.zip
 在我的项目中集成了databinding，导致butterknife使用不当报错会只想databinding，给排查异常带来了很大的困扰。
 例如，变量使用private, static修饰,变量类型和获取的实际类型不对应等。
 
+# license
 
+   Copyright 2019 wjianchen13
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
 
 
 
