@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cold.module2.module2" >
+    <application>
+
+        <activity android:name="com.cold.module2.module2.com.cold.base.BaseActivity" />
+        <activity android:name="com.cold.module2.module2.com.cold.base.OtherActivity" />
+        <activity android:name="com.cold.module2.function.FunctionActivity" />
+        <activity android:name="com.cold.module2.inherited.InheritedModelActivity" />
+    </application>
+</manifest>

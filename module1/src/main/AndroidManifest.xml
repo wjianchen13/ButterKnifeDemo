@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cold.module2" >
+    <application>
+
+        <activity android:name="com.cold.module2.OtherActivity" />
+        <activity android:name="com.cold.module2.fragment.FragmentTestActivity" />
+
+        <activity android:name="com.cold.module2.viewholder.RecyclerViewActivity" />
+        <activity android:name="com.cold.module2.temporary.AddViewActivity" />
+        <activity android:name="com.cold.module2.dialogfragment.InheritedActivity" />
+    </application>
+
+
+</manifest>

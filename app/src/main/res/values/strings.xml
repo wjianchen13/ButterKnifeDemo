@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButterKnifeDemo</string>
+
+    <string name="base_bind_string">绑定string测试</string>
+
+
+</resources>
